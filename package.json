@@ -1,0 +1,19 @@
+{
+  "name": "dance.js",
+  "version": "0.0.0",
+  "description": "coming soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mateodelnorte/dance.js.git"
+  },
+  "author": "hi@iammattwalters.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateodelnorte/dance.js/issues"
+  },
+  "homepage": "https://github.com/mateodelnorte/dance.js#readme"
+}
